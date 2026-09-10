@@ -37,6 +37,7 @@ The Windows receiver converts the normalized tablet coordinates into actual Wind
 
 📁 `AirPen_V1/`
 
+*Note: This has been tested on Samsung Tablet only - You need to be connected on the same network....*
 ---
 
 # 🚀 Project Vision
