@@ -14,7 +14,7 @@ The goal is to create a lightweight alternative to a dedicated graphics tablet w
 
 Each version of Air-Pen represents a different stage of development.
 
-## 🟢 01 — Air-Pen: Wireless Pen Mouse
+## 🟢 01 — Air-Pen: Wireless Pen Mouse : Made for Samsung
 
 The first working version of Air-Pen.
 
